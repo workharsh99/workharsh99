@@ -28,7 +28,7 @@ Full-stack web developer and open-source contributor, currently building Optimiz
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,graphql,materialui,mysql,netlify,nextjs,nodejs,postgres,react,solidity,supabase,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,graphql,materialui,mysql,netlify,nextjs,nodejs,postgres,mongodb,react,solidity,supabase,tailwind,vscode)](https://skillicons.dev)
 
 <br/>
 
