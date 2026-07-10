@@ -11,7 +11,7 @@
 
 <p align="center">
   <i>
-Full-stack web developer and open-source contributor, currently building Optimizer AI, strengthening DSA and system design skills, and experienced in C++, Java, React, Node and modern web development.
+Full-stack web developer and open-source contributor, currently building Optimizer AI, strengthening DSA and system design skills, and experienced in C++, Javascript, React, Node and modern web development.
   </i>
 </p>
 
